@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="139,56,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" TextChanged="textBox1_TextChanged" Visibility="Visible" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="280,56,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" TextChanged="textBox2_TextChanged" />
+        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="151,85,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" Visibility="Hidden" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="243,203,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" />
+        <Button Content="Substract" Height="23" HorizontalAlignment="Left" Margin="304,85,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" Visibility="Hidden" />
+        <Button Content="Mult" Height="23" HorizontalAlignment="Left" Margin="151,114,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" Visibility="Hidden" />
+        <Button Content="Div" Height="23" HorizontalAlignment="Left" Margin="304,114,0,0" Name="button4" VerticalAlignment="Top" Width="75" Click="button4_Click" Visibility="Hidden" />
+        <Button Content="octal" Height="23" HorizontalAlignment="Left" Margin="151,143,0,0" Name="button5" VerticalAlignment="Top" Width="75" Click="button5_Click" Visibility="Hidden" />
+        <Button Content="Binary" Height="23" HorizontalAlignment="Left" Margin="304,143,0,0" Name="button6" VerticalAlignment="Top" Width="75" Click="button6_Click" Visibility="Hidden" />
+        <Button Content="Hexa" Height="23" HorizontalAlignment="Left" Margin="151,172,0,0" Name="button7" VerticalAlignment="Top" Width="75" Click="button7_Click" Visibility="Hidden" />
+        <Button Content="Programmer" Height="23" HorizontalAlignment="Left" Margin="35,114,0,0" Name="button8" VerticalAlignment="Top" Width="107" Click="button8_Click" />
+        <Button Content="Normal people" Height="23" HorizontalAlignment="Left" Margin="35,85,0,0" Name="button9" VerticalAlignment="Top" Width="107" Click="button9_Click" />
+        <Label Content="Answer" Height="28" HorizontalAlignment="Left" Margin="151,198,0,0" Name="label1" VerticalAlignment="Top" Width="102" />
+        <Label Content="Marvellous Infosystem calculator" Height="28" HorizontalAlignment="Left" Margin="182,12,0,0" Name="label2" VerticalAlignment="Top" Width="197" />
+    </Grid>
+</Window>

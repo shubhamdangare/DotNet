@@ -1,0 +1,6 @@
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.pdb

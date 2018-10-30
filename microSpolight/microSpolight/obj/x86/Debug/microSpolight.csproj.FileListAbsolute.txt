@@ -1,0 +1,11 @@
+C:\Users\shubham\Desktop\microSpolight\microSpolight\bin\Debug\microSpolight.exe
+C:\Users\shubham\Desktop\microSpolight\microSpolight\bin\Debug\microSpolight.pdb
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\MainWindow.baml
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\App.g.cs
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight_MarkupCompile.cache
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight.g.resources
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight.Properties.Resources.resources
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight.csproj.GenerateResource.Cache
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight.exe
+C:\Users\shubham\Desktop\microSpolight\microSpolight\obj\x86\Debug\microSpolight.pdb
