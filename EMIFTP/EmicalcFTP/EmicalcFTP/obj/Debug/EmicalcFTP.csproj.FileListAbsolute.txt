@@ -1,0 +1,17 @@
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\bin\Debug\EmicalcFTP.exe.config
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\bin\Debug\EmicalcFTP.exe
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\bin\Debug\EmicalcFTP.pdb
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\MainWindow.g.cs
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\App.g.cs
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP_MarkupCompile.cache
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP_MarkupCompile.lref
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\MainWindow.baml
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.g.resources
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.Properties.Resources.resources
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.csproj.GenerateResource.Cache
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.exe
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.pdb
+D:\vs_uigtm\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.csprojResolveAssemblyReference.cache
+D:\vs_uigtm\EMIFTP\EmicalcFTP\EmicalcFTP\bin\Debug\EmicalcFTP.exe.config
+D:\vs_uigtm\EMIFTP\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.exe
+D:\vs_uigtm\EMIFTP\EmicalcFTP\EmicalcFTP\obj\Debug\EmicalcFTP.pdb

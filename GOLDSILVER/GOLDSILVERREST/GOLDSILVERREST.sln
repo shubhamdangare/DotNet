@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOLDSILVERREST", "GOLDSILVERREST\GOLDSILVERREST.csproj", "{A1F36E2D-0019-4E37-96A6-3EF4334F5ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F36E2D-0019-4E37-96A6-3EF4334F5ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F36E2D-0019-4E37-96A6-3EF4334F5ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F36E2D-0019-4E37-96A6-3EF4334F5ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F36E2D-0019-4E37-96A6-3EF4334F5ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Window x:Class="EmicalcFTP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmicalcFTP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Loan Amount" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,59,0,0" Width="93" Height="49"/>
+        <Label x:Name="label1" Content="Duration" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,113,0,0"/>
+        <Label x:Name="label2" Content="Rate of intrest" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,161,0,0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="244,61,0,0" TextChanged="textBox_TextChanged"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="244,116,0,0" TextChanged="textBox1_TextChanged"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="244,161,0,0" IsEnabled="False" />
+        <Button x:Name="button" Content="Calculate EMI" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="85,240,0,0" Click="button_Click"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="244,240,0,0" Width="178"/>
+
+    </Grid>
+</Window>

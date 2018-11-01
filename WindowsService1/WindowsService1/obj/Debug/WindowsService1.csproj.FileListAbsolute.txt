@@ -1,0 +1,7 @@
+D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\vs_uigtm\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\vs_uigtm\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+D:\vs_uigtm\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\vs_uigtm\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

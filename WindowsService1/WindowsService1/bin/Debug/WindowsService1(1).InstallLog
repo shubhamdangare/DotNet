@@ -1,0 +1,181 @@
+﻿Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Uninstalling assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Uninstalling assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Uninstalling assembly 'D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\vs_uigtm\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Unable to create an instance of the WindowsService1.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
