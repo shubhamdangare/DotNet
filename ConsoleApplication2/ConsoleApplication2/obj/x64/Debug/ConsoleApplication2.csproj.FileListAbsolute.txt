@@ -2,3 +2,8 @@ C:\Users\shubham\Desktop\ConsoleApplication2\ConsoleApplication2\bin\x64\Debug\C
 C:\Users\shubham\Desktop\ConsoleApplication2\ConsoleApplication2\bin\x64\Debug\ConsoleApplication2.pdb
 C:\Users\shubham\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x64\Debug\ConsoleApplication2.exe
 C:\Users\shubham\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x64\Debug\ConsoleApplication2.pdb
+C:\Users\shubham\Desktop\C#projects\ConsoleApplication2\ConsoleApplication2\obj\x64\Debug\ConsoleApplication2.exe
+C:\Users\shubham\Desktop\C#projects\ConsoleApplication2\ConsoleApplication2\obj\x64\Debug\ConsoleApplication2.pdb
+C:\Users\shubham\Desktop\C#projects\ConsoleApplication2\ConsoleApplication2\bin\x64\Debug\ConsoleApplication2.exe
+C:\Users\shubham\Desktop\C#projects\ConsoleApplication2\ConsoleApplication2\bin\x64\Debug\ConsoleApplication2.pdb
+C:\Users\shubham\Desktop\C#projects\ConsoleApplication2\ConsoleApplication2\obj\x64\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

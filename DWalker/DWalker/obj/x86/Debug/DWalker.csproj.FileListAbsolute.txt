@@ -1,0 +1,11 @@
+C:\Users\shubham\Desktop\DWalker\DWalker\bin\Debug\DWalker.exe
+C:\Users\shubham\Desktop\DWalker\DWalker\bin\Debug\DWalker.pdb
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\MainWindow.baml
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\App.g.cs
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker_MarkupCompile.cache
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker.g.resources
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker.Properties.Resources.resources
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker.csproj.GenerateResource.Cache
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker.exe
+C:\Users\shubham\Desktop\DWalker\DWalker\obj\x86\Debug\DWalker.pdb
