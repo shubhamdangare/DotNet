@@ -4,3 +4,5 @@ C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsSe
 C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.csproj.GenerateResource.Cache
 C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.exe
 C:\Users\shubham\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.pdb
+C:\Users\shubham\Desktop\C#projects\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Users\shubham\Desktop\C#projects\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.pdb

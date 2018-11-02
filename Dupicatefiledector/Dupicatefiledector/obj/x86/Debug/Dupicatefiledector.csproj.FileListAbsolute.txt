@@ -1,0 +1,11 @@
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\bin\Debug\Dupicatefiledector.exe
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\bin\Debug\Dupicatefiledector.pdb
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\MainWindow.baml
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\App.g.cs
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector_MarkupCompile.cache
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector.g.resources
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector.Properties.Resources.resources
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector.csproj.GenerateResource.Cache
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector.exe
+C:\Users\shubham\Desktop\Dupicatefiledector\Dupicatefiledector\obj\x86\Debug\Dupicatefiledector.pdb
